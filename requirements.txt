@@ -2,4 +2,3 @@ openai
 elevenlabs
 streamlit
 ipywidgets
-os
